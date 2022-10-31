@@ -1,0 +1,19 @@
+/* . -> sempre se refere a uma classe */
+.flex {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+/* # -> sempre se refere a um ID */
+#btn {
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: flex;
+}
